@@ -1,0 +1,2 @@
+# six
+return 6
