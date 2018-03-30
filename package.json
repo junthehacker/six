@@ -1,5 +1,5 @@
 {
-  "name": "six",
+  "name": "return-6",
   "version": "1.0.0",
   "description": "return 6",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "six"
   ],
   "author": "Jun Zheng",
-  "license": "ISC",
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/junthehacker/six/issues"
   },
